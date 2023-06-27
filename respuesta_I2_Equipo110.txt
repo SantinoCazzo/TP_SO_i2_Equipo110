@@ -60,3 +60,7 @@ touch respuestas txt
 git add .
 git commit
 git push
+
+ALFA: Nicolas Carlitos Boullon
+BETA: Santino Cazzolla
+GAMMA: Nicolas Amiano 
