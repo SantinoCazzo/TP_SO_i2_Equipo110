@@ -1,0 +1,62 @@
+a)
+git remote add upstream URL_DEL_REPOSITORIO_ORIGINAL
+git fetch upstream
+git checkout main
+git merge upstream/main
+escribir un commit
+:wq 
+git push
+
+b) No se puede.
+
+c) No se puede.
+
+d) No, no se pierden.
+
+e) 
+BETA
+git clone url
+touch fork.txt
+git add . 
+git commit
+git push
+
+GAMMA
+fork al repo
+git clone url
+echo de los datos
+git add .
+git commit
+git push
+
+ALFA
+fork al repo
+git clone url
+echo de los datos
+git add .
+git commit
+git push
+
+BETA
+cree carpeta de repo
+git clone
+touch txt
+git add .
+git commit
+git push
+
+ALFA Y GAMMA
+
+git remote add upstream URL_DEL_REPOSITORIO_ORIGINAL
+git fetch upstream
+git checkout main
+git merge upstream/main
+escribir un commit
+:wq 
+git push
+
+BETA
+touch respuestas txt
+git add .
+git commit
+git push
